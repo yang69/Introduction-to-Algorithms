@@ -8,3 +8,5 @@
 | 章节目录 | 题目 | 程序 |
 | --- | ----- | ------- |
 | 第15章 动态规划 | 钢条切割 | [Java](./src/Chapter15/DynamicProgramming/RodCutting.java) |
+|  | 矩阵链乘法 | [Java](./src/Chapter15/DynamicProgramming/MatrixChainMultiplication.java) |
+|  | 最长公共子序列 | [Java](./src/Chapter15/DynamicProgramming/LongestCommonSubsequence.java) |
