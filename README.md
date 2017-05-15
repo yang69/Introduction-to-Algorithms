@@ -10,3 +10,5 @@
 | 第15章 动态规划 | 钢条切割 | [Java](./src/Chapter15/DynamicProgramming/RodCutting.java) |
 |  | 矩阵链乘法 | [Java](./src/Chapter15/DynamicProgramming/MatrixChainMultiplication.java) |
 |  | 最长公共子序列 | [Java](./src/Chapter15/DynamicProgramming/LongestCommonSubsequence.java) |
+| 第32章 字符串匹配 | 朴素字符串匹配算法 | [Java](./src/Chapter32/StringMatching/NaiveStringMatcher.java) |
+|  | Rabin-Karp算法 | [Java](./src/Chapter32/StringMatching/RabinKarpMatcher.java) |
