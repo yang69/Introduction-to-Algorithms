@@ -12,3 +12,4 @@
 |  | 最长公共子序列 | [Java](./src/Chapter15/DynamicProgramming/LongestCommonSubsequence.java) |
 | 第32章 字符串匹配 | 朴素字符串匹配算法 | [Java](./src/Chapter32/StringMatching/NaiveStringMatcher.java) |
 |  | Rabin-Karp算法 | [Java](./src/Chapter32/StringMatching/RabinKarpMatcher.java) |
+|  | 有限自动机算法 | [Java](./src/Chapter32/StringMatching/FiniteAutomatonMatcher.java) |

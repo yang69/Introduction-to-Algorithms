@@ -53,8 +53,10 @@ public class RabinKarpMatcher {
         RabinKarpMatcher rabinKarpMatcher = new RabinKarpMatcher();
 
         System.out.println(rabinKarpMatcher.rabinKarpMatcher("acaabc", "aab", 26, 10657601));
+        System.out.println(rabinKarpMatcher.rabinKarpMatcher("acaabc", "", 26, 10657601)); //这里有问题
         System.out.println(rabinKarpMatcher.rabinKarpMatcher("acaabc", "a", 26, 10657601));
         System.out.println(rabinKarpMatcher.rabinKarpMatcher("aab", "aab", 26, 10657601));
+        System.out.println(rabinKarpMatcher.rabinKarpMatcher("a", "a", 26, 10657601));
         System.out.println(rabinKarpMatcher.rabinKarpMatcher("", "", 26, 10657601));
         System.out.println(rabinKarpMatcher.rabinKarpMatcher("ac", "ab", 26, 10657601));
     }

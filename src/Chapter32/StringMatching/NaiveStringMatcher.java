@@ -38,8 +38,10 @@ public class NaiveStringMatcher {
         NaiveStringMatcher naiveStringMatcher = new NaiveStringMatcher();
 
         System.out.println(naiveStringMatcher.naiveStringMatcher("acaabc", "aab"));
+        System.out.println(naiveStringMatcher.naiveStringMatcher("acaabc", ""));
         System.out.println(naiveStringMatcher.naiveStringMatcher("acaabc", "a"));
         System.out.println(naiveStringMatcher.naiveStringMatcher("aab", "aab"));
+        System.out.println(naiveStringMatcher.naiveStringMatcher("a", "a"));
         System.out.println(naiveStringMatcher.naiveStringMatcher("", ""));
         System.out.println(naiveStringMatcher.naiveStringMatcher("ac", "ab"));
     }
